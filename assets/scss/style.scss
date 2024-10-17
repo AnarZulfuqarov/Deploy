@@ -105,6 +105,9 @@
 
         .rating-stars {
           margin-top: 0.8rem;
+          i{
+            color: $color_5;
+          }
         }
 
         .product-options {

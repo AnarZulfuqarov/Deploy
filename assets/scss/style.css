@@ -112,6 +112,9 @@ body {
 #product .product-list-section .product-card .product-details .rating-stars {
   margin-top: 0.8rem;
 }
+#product .product-list-section .product-card .product-details .rating-stars i {
+  color: #ffd43b;
+}
 #product .product-list-section .product-card .product-details .product-options {
   display: flex;
   justify-content: center;
